@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alejandro Zepeda and I am currently looking for any open developer roles in the bay area.
+My name is Alejandro Zepeda and I am currently looking for any open developer roles in the Bay Area. I am open to both internships and full-time work.
 
 BS in Computer Science graduate capable of managing software projects from concept to completion with proven deadline sensitivity. Strong analytical skills combined with experience in object-orientated programming techniques. Endorsed as a team player who manages project cycles from testing to deployment. Excellent communication skills. Fluent in English and Spanish languages. 
 
